@@ -32,7 +32,6 @@
 ## Simulation Source Collection
 
  +  [Apollo](https://github.com/ApolloAuto/apollo) has full access of various aspects of self-driving system. Including Localization, Perception, Planning, Prediction etc.
- 
-     ![alt text](https://github.com/vehicularai/Jay_Deng/blob/master/Images/Apollo.png "Logo Title Text 1")
+ ![alt text](https://github.com/vehicularai/Jay_Deng/blob/master/Images/Apollo.png "Logo Title Text 1")
      
     The problem is the platform is open, but the code is not. It's not easy to use the algrithm from them but can use the module from them.
